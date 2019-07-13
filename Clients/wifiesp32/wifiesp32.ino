@@ -5,10 +5,8 @@
 
 /* WiFi network name and password */
 // Your wirelless router ssid and password
-const char * ssid = "moto_2";
-const char * pwd = "31d7dd433fc0";
-//const char* ssid="dragino-18f0e4";
-//const char* password = "iotincendios";
+const char* ssid = "dragino-18f0e4";
+const char* password = "iotincendios";
 
 // IP address to send UDP data to.
 // it can be ip address of the server or
